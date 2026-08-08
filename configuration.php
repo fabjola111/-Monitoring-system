@@ -2,9 +2,9 @@
 /*
 
 $host = "sql103.infinityfree.com";
-$user = "if0_42114421";
-$pass = "020TycJTd5xFcyS";
-$db   = "if0_42114421_monitorr";
+$user = "......";
+$pass = "......";
+$db   = ".......";
 
 $conn = new mysqli($host, $user, $pass, $db);
 
