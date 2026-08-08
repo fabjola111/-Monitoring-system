@@ -1,0 +1,23 @@
+{
+  "name": "Monitoring System",
+  "short_name": "Monitorr",
+  "start_url": "/monitorr12/login.php",
+  "scope": "/monitorr12/",
+  "display": "standalone",
+  "background_color": "#eff6ff",
+  "theme_color": "#60a5fa",
+  "icons": [
+    {
+      "src": "/monitorr12/assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/monitorr12/assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
